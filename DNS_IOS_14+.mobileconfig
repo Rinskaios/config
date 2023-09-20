@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>PayloadContent</key>
+<array>
+
+<dict>
+<key>DNSSettings</key>
+<dict>
+<key>DNSProtocol</key>
+<string>HTTPS</string>
+<key>ServerURL</key>
+<string>https://doh.360.cn/dns-query</string>
+</dict>
+<key>PayloadDisplayName</key>
+<string> 360 Security DNS 🇨🇳	 </string>
+<key>PayloadIdentifier</key>
+<string>11111</string>
+<key>PayloadOrganization</key>
+<string>Synthetic DNS</string>
+<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+<key>PayloadUUID</key>
+<string>11111</string>
+<key>PayloadVersion</key>
+<integer>1</integer>
+</dict>
+
+<dict>
+<key>DNSSettings</key>
+<dict>
+<key>DNSProtocol</key>
+<string>HTTPS</string>
+<key>ServerURL</key>
+<string>https://dns.adguard.com/dns-query</string>
+</dict>
+<key>PayloadDisplayName</key>
+<string> AdGuard DNS Default 🇷🇺	 </string>
+<key>PayloadIdentifier</key>
+<string>22222</string>
+<key>PayloadOrganization</key>
+<string>Synthetic DNS</string>
+<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+<key>PayloadUUID</key>
+<string>22222</string>
+<key>PayloadVersion</key>
+<integer>1</integer>
+</dict>
+
+<dict>
+<key>DNSSettings</key>
+<dict>
+<key>DNSProtocol</key>
+<string>HTTPS</string>
+<key>ServerURL</key>
+<string>https://dns-family.adguard.com/dns-query</string>
+</dict>
+<key>PayloadDisplayName</key>
+<string> AdGuard DNS Family Protection 🇷🇺 </string>
+<key>PayloadIdentifier</key>
+<string>33333</string>
+<key>PayloadOrganization</key>
+<string>Synthetic DNS</string>
+<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+<key>PayloadUUID</key>
+<string>33333</string>
+<key>PayloadVersion</key>
+<integer>1</integer>
+</dict>
+
+<dict>
+<key>DNSSettings</key>
+<dict>
+<key>DNSProtocol</key>
+<string>HTTPS</string>
+<key>ServerURL</key>
+<string>https://dns-unfiltered.adguard.com/dns-query</string>
+</dict>
+<key>PayloadDisplayName</key>
+<string> AdGuard DNS Non-filtering 🇷🇺</string>
+<key>PayloadIdentifier</key>
+<string>44444</string>
+<key>PayloadOrganization</key>
+<string>Synthetic DNS</string>
+<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+<key>PayloadUUID</key>
+<string>44444</string>
+<key>PayloadVersion</key>
+<integer>1</integer>
+</dict>
+
+<dict>
+<key>DNSSettings</key>
+<dict>
+<key>DNSProtocol</key>
+<string>HTTPS</string>
+<key>ServerURL</key>
+<string>https://dnsnl.alekberg.net/dns-query</string>
+</dict>
+<key>PayloadDisplayName</key>
+<string> Alekberg Encrypted DNS 🇳🇱</string>
+<key>PayloadIdentifier</key>
+<string>55555</string>
+<key>PayloadOrganization</key>
+<string>Synthetic DNS</string>
+<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+<key>PayloadUUID</key>
+<string>55555</string>
+<key>PayloadVersion</key>
+<integer>1</integer>
+</dict>
+
+<dict>
+<key>DNSSettings</key>
+<dict>
+<key>DNSProtocol</key>
+<string>HTTPS</string>
+<key>ServerURL</key> 
+<string>https://dns.alidns.com/dns-query</string>
+</dict>
+<key>PayloadDisplayName</key>
+<string> Aliyun Public DNS	🇨🇳 </string>
+<key>PayloadIdentifier</key>
+<string>66666</string>
+<key>PayloadOrganization</key>
+<string>Synthetic DNS</string>
+<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+<key>PayloadUUID</key>
+<string>66666</string>
+<key>PayloadVersion</key>
+<integer>1</integer>
+</dict>
+
+<dict>
+<key>DNSSettings</key>
+<dict>
+<key>DNSProtocol</key>
+<string>HTTPS</string>
+<key>ServerURL</key>
+<string>https://doh1.blahdns.com/dns-query</string>
+</dict>
+<key>PayloadDisplayName</key>
+<string> BlahDNS CDN Filtered 🇺🇸	 </string>
+<key>PayloadIdentifier</key>
+<string>77777</string>
+<key>PayloadOrganization</key>
+<string>Synthetic DNS</string>
+<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+<key>PayloadUUID</key>
+<string>77777</string>
+<key>PayloadVersion</key>
+<integer>1</integer>
+</dict>
+
+<dict>
+<key>DNSSettings</key>
+<dict>
+<key>DNSProtocol</key>
+<string>HTTPS</string>
+<key>ServerURL</key>
+<string>https://doh1.blahdns.com/uncensor</string>
+</dict>
+<key>PayloadDisplayName</key>
+<string> BlahDNS CDN Unfiltered	🇺🇸	</string>
+<key>PayloadIdentifier</key>
+<string>88888</string>
+<key>PayloadOrganization</key>
+<string>Synthetic DNS</string>
+<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+<key>PayloadUUID</key>
+<string>88888</string>
+<key>PayloadVersion</key>
+<integer>1</integer>
+</dict>
+
+<dict>
+<key>DNSSettings</key>
+<dict>
+<key>DNSProtocol</key>
+<string>HTTPS</string>
+<key>ServerURL</key>
+<string>https://doh-fi.blahdns.com/dns-query</string>
+</dict>
+<key>PayloadDisplayName</key>
+<string> BlahDNS Finland	🇫🇮		</string>
+<key>PayloadIdentifier</key>
+<string>99999</string>
+<key>PayloadOrganization</key>
+<string>Synthetic DNS</string>
+<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+<key>PayloadUUID</key>
+<string>99999</string>
+<key>PayloadVersion</key>
+<integer>1</integer>
+</dict>
+
+<dict>
+<key>DNSSettings</key>
+<dict>
+<key>DNSProtocol</key>
+<string>HTTPS</string>
+<key>ServerURL</key>
+<string>https://doh-de.blahdns.com/dns-query</string>
+</dict>
+<key>PayloadDisplayName</key>
+<string> BlahDNS Germany 🇩🇪		</string>
+<key>PayloadIdentifier</key>
+<string>12222</string>
+<key>PayloadOrganization</key>
+<string>Synthetic DNS</string>
+<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+<key>PayloadUUID</key>
+<string>12222</string>
+<key>PayloadVersion</key>
+<integer>1</integer>
+</dict>
+
+<dict>
+<key>DNSSettings</key>
+<dict>
+<key>DNSProtocol</key>
+<string>HTTPS</string>
+<key>ServerURL</key>
+<string>https://doh-jp.blahdns.com/dns-query</string>
+</dict>
+<key>PayloadDisplayName</key>
+<string> BlahDNS Japan 🇯🇵		</string>
+<key>PayloadIdentifier</key>
+<string>23333</string>
+<key>PayloadOrganization</key>
+<string>Synthetic DNS</string>
+<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+<key>PayloadUUID</key>
+<string>23333</string>
+<key>PayloadVersion</key>
+<integer>1</integer>
+</dict>
+
+<dict>
+<key>DNSSettings</key>
+<dict>
+<key>DNSProtocol</key>
+<string>HTTPS</string>
+<key>ServerURL</key>
+<string>https://doh-sg.blahdns.com/dns-query</string>
+</dict>
+<key>PayloadDisplayName</key>
+<string> BlahDNS Singapore 🇸🇬		</string>
+<key>PayloadIdentifier</key>
+<string>34444</string>
+<key>PayloadOrganization</key>
+<string>Synthetic DNS</string>
+<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+<key>PayloadUUID</key>
+<string>34444</string>
+<key>PayloadVersion</key>
+<integer>1</integer>
+</dict>
+
+<dict>
+<key>DNSSettings</key>
+<dict>
+<key>DNSProtocol</key>
+<string>TLS</string>
+<key>ServerName</key>
+<string>dot-ch.blahdns.com</string>
+</dict>
+<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+<key>PayloadIdentifier</key>
+<string>7744a781-a3f8-4120-9fbf-022bfd233b37</string>
+<key>PayloadUUID</key>
+<string>94d7a50d-b74c-4743-8796-d024c4910bdf</string>
+<key>PayloadDisplayName</key>
+<string> BlahDNS Switzerland	🇨🇭 </string>
+<key>PayloadVersion</key>
+<integer>1</integer>
+</dict>
+
+<dict>
+<key>DNSSettings</key>
+<dict>
+<key>DNSProtocol</key>
+<string>HTTPS</string>
+<key>ServerURL</key>
+<string>https://private.canadianshield.cira.ca/dns-query</string>
+</dict>
+<key>PayloadDisplayName</key>
+<string> Canadian Shield Private 🇨🇦	</string>
+<key>PayloadIdentifier</key>
+<string>56666</string>
+<key>PayloadOrganization</key>
+<string>Synthetic DNS</string>
+<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+<key>PayloadUUID</key>
+<string>56666</string>
+<key>PayloadVersion</key>
+<integer>1</integer>
+</dict>
+
+<dict>
+<key>DNSSettings</key>
+<dict>
+<key>DNSProtocol</key>
+<string>HTTPS</string>
+<key>ServerURL</key>
+<string>https://protected.canadianshield.cira.ca/dns-query</string>
+</dict>
+<key>PayloadDisplayName</key>
+<string> Canadian Shield Protected 🇨🇦		</string>
+<key>PayloadIdentifier</key>
+<string>67777</string>
+<key>PayloadOrganization</key>
+<string>Synthetic DNS</string>
+<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+<key>PayloadUUID</key>
+<string>67777</string>
+<key>PayloadVersion</key>
+<integer>1</integer>
+</dict>
+
+<dict>
+<key>DNSSettings</key>
+<dict>
+<key>DNSProtocol</key>
+<string>HTTPS</string>
+<key>ServerURL</key>
+<string>https://family.canadianshield.cira.ca/dns-query</string>
+</dict>
+<key>PayloadDisplayName</key>
+<string> Canadian Shield Family 🇨🇦	</string>
+<key>PayloadIdentifier</key>
+<string>78888</string>
+<key>PayloadOrganization</key>
+<string>Synthetic DNS</string>
+<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+<key>PayloadUUID</key>
+<string>78888</string>
+<key>PayloadVersion</key>
+<integer>1</integer>
+</dict>
+
+<dict>
+<key>DNSSettings</key>
+<dict>
+<key>DNSProtocol</key>
+<string>HTTPS</string>
+<key>ServerURL</key>
+<string>https://cloudflare-dns.com/dns-query</string>
+</dict>
+<key>PayloadDisplayName</key>
+<string> Cloudflare 1.1.1.1 🇺🇸		</string>
+<key>PayloadIdentifier</key>
+<string>89999</string>
+<key>PayloadOrganization</key>
+<string>Synthetic DNS</string>
+<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+<key>PayloadUUID</key>
+<string>89999</string>
+<key>PayloadVersion</key>
+<integer>1</integer>
+</dict>
+
+<dict>
+<key>DNSSettings</key>
+<dict>
+<key>DNSProtocol</key>
+<string>HTTPS</string>
+<key>ServerURL</key>
+<string>https://security.cloudflare-dns.com/dns-query</string>
+</dict>
+<key>PayloadDisplayName</key>
+<string> Cloudflare 1.1.1.1 Security	🇺🇸	</string>
+<key>PayloadIdentifier</key>
+<string>12333</string>
+<key>PayloadOrganization</key>
+<string>Synthetic DNS</string>
+<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+<key>PayloadUUID</key>
+<string>12333</string>
+<key>PayloadVersion</key>
+<integer>1</integer>
+</dict>
+
+<dict>
+<key>DNSSettings</key>
+<dict>
+<key>DNSProtocol</key>
+<string>HTTPS</string>
+<key>ServerURL</key>
+<string>https://family.cloudflare-dns.com/dns-query</string>
+</dict>
+<key>PayloadDisplayName</key>
+<string> Cloudflare 1.1.1.1 Family 🇺🇸		</string>
+<key>PayloadIdentifier</key>
+<string>23444</string>
+<key>PayloadOrganization</key>
+<string>Synthetic DNS</string>
+<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+<key>PayloadUUID</key>
+<string>23444</string>
+<key>PayloadVersion</key>
+<integer>1</integer>
+</dict>
+
+<dict>
+<key>DNSSettings</key>
+<dict>
+<key>DNSProtocol</key>
+<string>HTTPS</string>
+<key>ServerURL</key>
+<string>https://doh.pub/dns-query</string>
+</dict>
+<key>PayloadDisplayName</key>
+<string> DNSPod Public DNS 🇨🇳	</string>
+<key>PayloadIdentifier</key>
+<string>34555</string>
+<key>PayloadOrganization</key>
+<string>Synthetic DNS</string>
+<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+<key>PayloadUUID</key>
+<string>34555</string>
+<key>PayloadVersion</key>
+<integer>1</integer>
+</dict>
+
+<dict>
+<key>DNSSettings</key>
+<dict>
+<key>DNSProtocol</key>
+<string>HTTPS</string>
+<key>ServerURL</key>
+<string>https://dns.google/dns-query</string>
+</dict>
+<key>PayloadDisplayName</key>
+<string> Google Public DNS 🇺🇸	</string>
+<key>PayloadIdentifier</key>
+<string>45666</string>
+<key>PayloadOrganization</key>
+<string>Synthetic DNS</string>
+<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+<key>PayloadUUID</key>
+<string>45666</string>
+<key>PayloadVersion</key>
+<integer>1</integer>
+</dict>
+
+<dict>
+<key>DNSSettings</key>
+<dict>
+<key>DNSProtocol</key>
+<string>HTTPS</string>
+<key>ServerURL</key>
+<string>https://dns.keweon.center/dns-query</string>
+</dict>
+<key>PayloadDisplayName</key>
+<string> keweonDNS 🇩🇪		</string>
+<key>PayloadIdentifier</key>
+<string>56777</string>
+<key>PayloadOrganization</key>
+<string>Synthetic DNS</string>
+<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+<key>PayloadUUID</key>
+<string>56777</string>
+<key>PayloadVersion</key>
+<integer>1</integer>
+</dict>
+
+<dict>
+<key>DNSSettings</key>
+<dict>
+<key>DNSProtocol</key>
+<string>HTTPS</string>
+<key>ServerURL</key>
+<string>https://doh.mullvad.net/dns-query</string>
+</dict>
+<key>PayloadDisplayName</key>
+<string> Mullvad DNS 🇸🇪	</string>
+<key>PayloadIdentifier</key>
+<string>67888</string>
+<key>PayloadOrganization</key>
+<string>Synthetic DNS</string>
+<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+<key>PayloadUUID</key>
+<string>67888</string>
+<key>PayloadVersion</key>
+<integer>1</integer>
+</dict>
+
+<dict>
+<key>DNSSettings</key>
+<dict>
+<key>DNSProtocol</key>
+<string>HTTPS</string>
+<key>ServerURL</key>
+<string>https://adblock.doh.mullvad.net/dns-query</string>
+</dict>
+<key>PayloadDisplayName</key>
+<string> Mullvad DNS Adblock	 🇸🇪	</string>
+<key>PayloadIdentifier</key>
+<string>78999</string>
+<key>PayloadOrganization</key>
+<string>Synthetic DNS</string>
+<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+<key>PayloadUUID</key>
+<string>78999</string>
+<key>PayloadVersion</key>
+<integer>1</integer>
+</dict>
+
+<dict>
+<key>DNSSettings</key>
+<dict>
+<key>DNSProtocol</key>
+<string>HTTPS</string>
+<key>ServerURL</key>
+<string>https://doh.opendns.com/dns-query</string>
+</dict>
+<key>PayloadDisplayName</key>
+<string> OpenDNS Standard 🇺🇸		</string>
+<key>PayloadIdentifier</key>
+<string>89000</string>
+<key>PayloadOrganization</key>
+<string>Synthetic DNS</string>
+<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+<key>PayloadUUID</key>
+<string>89000</string>
+<key>PayloadVersion</key>
+<integer>1</integer>
+</dict>
+
+<dict>
+<key>DNSSettings</key>
+<dict>
+<key>DNSProtocol</key>
+<string>HTTPS</string>
+<key>ServerURL</key>
+<string>https://doh.familyshield.opendns.com/dns-query</string>
+</dict>
+<key>PayloadDisplayName</key>
+<string> OpenDNS FamilyShield 🇺🇸	</string>
+<key>PayloadIdentifier</key>
+<string>01222</string>
+<key>PayloadOrganization</key>
+<string>Synthetic DNS</string>
+<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+<key>PayloadUUID</key>
+<string>01222</string>
+<key>PayloadVersion</key>
+<integer>1</integer>
+</dict>
+
+<dict>
+<key>DNSSettings</key>
+<dict>
+<key>DNSProtocol</key>
+<string>HTTPS</string>
+<key>ServerURL</key>
+<string>https://dns.quad9.net/dns-query</string>
+</dict>
+<key>PayloadDisplayName</key>
+<string> Quad9 🇨🇭	</string>
+<key>PayloadIdentifier</key>
+<string>111111</string>
+<key>PayloadOrganization</key>
+<string>Synthetic DNS</string>
+<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+<key>PayloadUUID</key>
+<string>111111</string>
+<key>PayloadVersion</key>
+<integer>1</integer>
+</dict>
+
+<dict>
+<key>DNSSettings</key>
+<dict>
+<key>DNSProtocol</key>
+<string>HTTPS</string>
+<key>ServerURL</key>
+<string>https://dns11.quad9.net/dns-query</string>
+</dict>
+<key>PayloadDisplayName</key>
+<string> Quad9 w/ ECS 🇨🇭</string>
+<key>PayloadIdentifier</key>
+<string>222222</string>
+<key>PayloadOrganization</key>
+<string>Synthetic DNS</string>
+<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+<key>PayloadUUID</key>
+<string>222222</string>
+<key>PayloadVersion</key>
+<integer>1</integer>
+</dict>
+
+<dict>
+<key>DNSSettings</key>
+<dict>
+<key>DNSProtocol</key>
+<string>HTTPS</string>
+<key>ServerURL</key>
+<string>https://doh.tiar.app/dns-query</string>
+</dict>
+<key>PayloadDisplayName</key>
+<string> Tiarap 🇸🇬 🇺🇸	</string>
+<key>PayloadIdentifier</key>
+<string>333333</string>
+<key>PayloadOrganization</key>
+<string>Synthetic DNS</string>
+<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+<key>PayloadUUID</key>
+<string>333333</string>
+<key>PayloadVersion</key>
+<integer>1</integer>
+</dict>
+
+
+	
+</array>
+<key>PayloadDescription</key>
+	<string> DNS COMPILATION FOR IOS 14+
+- 360 Security DNS 🇨🇳 Security
+- AdGuard DNS Default 🇳🇱 Blocks ads, tracking vs phishing
+- AdGuard DNS Family Protection 🇳🇱 Blocks Ads + malware vs adult content
+- AdGuard DNS Non-filtering 🇳🇱 Non block ads
+- Alekberg Encrypted DNS 🇳🇱 Non-filtering
+- Aliyun Public DNS 🇨🇳 Non-filtering
+- BlahDNS CDN Filtered 🇺🇸 Blocks ads, tracking vs malware
+- BlahDNS CDN Unfiltered 🇺🇸 Non-filtering
+- BlahDNS Finland 🇫🇮 Blocks ads, tracking vs malware
+- BlahDNS Germany 🇩🇪 Blocks ads, tracking vs malware
+- BlahDNS Japan 🇯🇵 Blocks ads, tracking vs malware
+- BlahDNS Singapore 🇸🇬 Blocks ads, tracking vs malware
+- BlahDNS Switzerland 🇨🇭 Blocks ads, tracking vs malware
+- Canadian Shield Private 🇨🇦 Non-filtering
+- Canadian Shield Protected🇨🇦 Blocks malware vs phishing
+- Canadian Shield Family 🇨🇦 Blocks malware, phishing vs adult content
+- Cloudflare 1.1.1.1 🇺🇸 Non-filtering
+- Cloudflare 1.1.1.1 Security 🇺🇸 Blocks malware vs phishing
+- Cloudflare 1.1.1.1 Family 🇺🇸 Blocks malware, phishing vs adult content
+- DNSPod Public DNS 🇨🇳 Non-filtering
+- Google Public DNS 🇺🇸 Non-filtering
+- keweonDNS 🇩🇪 Blocks ads vs tracking
+- Mullvad DNS 🇸🇪 Non-filtering
+- Mullvad DNS Adblock 🇸🇪 Blocks ads vs tracking
+- OpenDNS Standard 🇺🇸 Non-filtering
+- OpenDNS FamilyShield 🇺🇸 Blocks malware vs adult content
+- Quad9 🇨🇭 Blocks malware
+- Quad9 w/ ECS 🇨🇭 Blocks malware
+- Tiarap 🇸🇬 🇺🇸 Blocks ads, tracking, phising vs malware
+</string>
+	<key>PayloadDisplayName</key>
+	<string> DNS COMPILATION FOR IOS 14+ </string>
+	<key>PayloadIdentifier</key>
+	<string>ultralow.dns.nextdns.io</string>
+	<key>PayloadScope</key>
+	<string>User</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>FHJFJFJFJF-DB73-40F6-BD22-2E42A43A3C94</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
