@@ -23,9 +23,9 @@
  <string>doubleclick.net</string>
  </array>
         </dict><key>PayloadDescription</key>
-        <string>Block Revoke VS Ota</string>
+        <string>Block Revoke Vs Ota</string>
         <key>PayloadDisplayName</key>
-        <string>Block Revoke VS Ota</string>
+        <string>Block Revoke Vs Ota</string>
         <key>PayloadIdentifier</key>
         <string>com.apple.dnsSettings.managed</string>
         <key>PayloadType</key>
@@ -37,9 +37,9 @@
         <key>ProhibitDisablement</key><false/>
         </dict></array>
 	<key>PayloadDescription</key>
-	<string>Block Revoke VS Ota</string>
+	<string>Block Revoke Vs Ota</string>
 	<key>PayloadDisplayName</key>
-	<string>Block Revoke VS Ota</string>
+	<string>Block Revoke Vs Ota</string>
 	<key>PayloadIdentifier</key>
 	<string>com.paulmillr.apple-dns</string>
 	<key>PayloadRemovalDisallowed</key>
