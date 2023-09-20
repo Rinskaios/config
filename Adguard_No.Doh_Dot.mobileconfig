@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+
+			<key>DNSSettings</key>
+			<dict>
+				<key>ServerAddresses</key>
+				<array>
+		<string>94.140.14.14</string>
+              <string>94.140.15.15</string>
+				 </array>
+			</dict>
+			<key>PayloadDescription</key>
+			<string>Adguard DNS</string>
+			<key>PayloadDisplayName</key>
+			<string>Adguard DNS</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>7475588558</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProhibitDisablement</key>
+			<false/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Adguard DNS is not encrypted. 
+- Doh and Dot are two types of encrypted DNS, it causes heat and drains the battery on your device. 
+- Therefore, I created an unencrypted Mobileconfig DNS configuration to minimize battery drain on your device.
+- Function: block ads. </string>
+	<key>PayloadDisplayName</key>
+	<string>Adguard DNS No Doh vs Dot</string>
+	<key>PayloadIdentifier</key>
+	<string>com.paulmillr.apple-dns</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>477458859595</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
+
+ 
+
+
+
+  
