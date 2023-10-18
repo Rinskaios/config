@@ -17,6 +17,13 @@ doubleclick.net
 
 @@||pagead2.googlesyndication.com^
 
+//
+certs.apple.com
+crl.apple.com
+ocsp.apple.com
+ocsp2.apple.com
+valid.apple.com
+
 
 
 
