@@ -1,48 +1,24 @@
-gdmf.apple.com
-comm-main.ess.apple.com
-comm-cohort.ess.apple.com
+
+//Link Chặn Thu Hồi Cơ Bản
 ocsp.apple.com
 ocsp2.apple.com
-crl.apple.com
 certs.apple.com
+crl.apple.com
+valid.apple.com
 mesu.apple.com
-axm-app.apple.com
 appattest.apple.com
 vpp.itunes.apple.com
-valid.apple.com
-entrust.net
-digicert.cn
-digicert.com
-doubleclick.net
+comm-main.ess.apple.com
+comm-cohort.ess.apple.com
+axm-app.apple.com
 
-@@||pagead2.googlesyndication.com^
-
-//
-certs.apple.com
-crl.apple.com
-ocsp.apple.com
-ocsp2.apple.com
-valid.apple.com
+//chặn cập nhật ios
+gdmf.apple.com
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+//Danh sách trắng trong chặn Ads
 @@||pagead2.googlesyndication.com^
 
 
