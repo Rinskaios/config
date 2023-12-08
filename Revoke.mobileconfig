@@ -23,6 +23,8 @@
 <string>comm-main.ess.apple.com</string>
 <string>comm-cohort.ess.apple.com</string>
 <string>axm-app.apple.com</string>
+<string>gdmf.apple.com</string>
+<string>pagead2.googlesyndication.com</string>
 </array>
 </dict>
 <key>PayloadDisplayName</key>
