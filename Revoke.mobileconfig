@@ -8,8 +8,8 @@
     <string>📣📣📣Petunjuk penggunaan ini harus dibaca:
 1.JANGAN gunakan VPN saat menggunakan konfigurasi profil ini.
 2.JANGAN gunakan DNS lain saat menggunakan konfigurasi DNS ini.
-3. JANGAN matikan power saat menggunakan konfigurasi DNS ini. Jika iya, beralihlah ke pesawat terlebih dahulu.
-Bergabunglah dengan grup untuk mendapatkan dukungan: https://t.me/SniperIOSTG
+3. JANGAN restart iphone saat menggunakan konfigurasi DNS ini. beralihlah ke mode pesawat terlebih dahulu.
+Bergabunglah dengan grup untuk mendapatkan dukungan kami: https://t.me/SniperIOSTG
 </string>
     <key>PayloadIdentifier</key>
     <string>com.cloudflare.warp.6b01a210-dae3-4aee-b94b-1e0c32e564ac.profile</string>
