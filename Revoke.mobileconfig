@@ -26,7 +26,14 @@
 </array>
 </dict>
 <key>PayloadDisplayName</key>
-<string>Chặn Thu Hồi Wifi + Data</string>
+<string>DNS Install PUBG load By Rins</string>
+<key>PayloadDescription</key>
+<string>📣📣📣Petunjuk penggunaan ini harus dibaca:
+1.JANGAN gunakan VPN saat menggunakan konfigurasi profil ini.
+2.JANGAN gunakan DNS lain saat menggunakan konfigurasi DNS ini.
+3. JANGAN restart iphone saat menggunakan konfigurasi DNS ini. beralihlah ke mode pesawat terlebih dahulu.
+Bergabunglah dengan grup untuk mendapatkan dukungan kami: https://t.me/SniperIOSTG
+</string>
 <key>PayloadIdentifier</key>
 <string>AAAAB6d</string>
 <key>PayloadType</key>
