@@ -1,63 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict><key>PayloadContent</key>
-<array>
-<dict>
-<key>DNSSettings</key>
-<dict>
-<key>ServerAddresses</key>
-<array/>
-<key>SupplementalMatchDomains</key>
-<array>
-<string>ocsp.apple.com</string>
-<string>ocsp2.apple.com</string>
-<string>certs.apple.com</string>
-<string>crl.apple.com</string>
-<string>valid.apple.com</string>
-<string>mesu.apple.com</string>
-<string>appattest.apple.com</string>
-<string>vpp.itunes.apple.com</string>
-<string>comm-main.ess.apple.com</string>
-<string>comm-cohort.ess.apple.com</string>
-<string>axm-app.apple.com</string>
-<string>gdmf.apple.com</string>
-</array>
-</dict>
-<key>PayloadDisplayName</key>
-<string>Bypass Integrity Wifi + Data</string>
-<key>PayloadIdentifier</key>
-<string>AAAAB6d</string>
-<key>PayloadType</key>
-<string>com.apple.dnsSettings.managed</string>
-<key>PayloadUUID</key>
-<string>AAAAB3d</string>
-<key>PayloadVersion</key>
-<integer>1</integer>
-<key>IPv6</key>
-<dict>
-<key>Managed</key>
-<integer>1</integer>
-<key>Override</key>
-<array>
-<string>::</string>
-</array>
-</dict>
-</dict>
-</array>
-<key>PayloadDisplayName</key>
-<string>Bypass Integrity Wifi + Data</string>
-<key>PayloadIdentifier</key>
-<string>AAAAA8d</string>
-<key>PayloadRemovalDisallowed</key>
-<false/>
-<key>PayloadType</key>
-<string>Configuration</string>
-<key>PayloadUUID</key>
-<string>58858585854g</string>
-<key>PayloadVersion</key>
-<integer>1</integer>
-</dict>
+  <dict>
+    <key>PayloadDisplayName</key>
+    <string>DNS Install PUBG load By Rins</string>
+    <key>PayloadDescription</key>
+    <string>📣📣📣Petunjuk penggunaan ini harus dibaca:
+1.JANGAN gunakan VPN saat menggunakan konfigurasi profil ini.
+2.JANGAN gunakan DNS lain saat menggunakan konfigurasi DNS ini.
+3. JANGAN matikan power saat menggunakan konfigurasi DNS ini. Jika iya, beralihlah ke pesawat terlebih dahulu.
+Bergabunglah dengan grup untuk mendapatkan dukungan: https://t.me/SniperIOSTG
+</string>
+    <key>PayloadIdentifier</key>
+    <string>com.cloudflare.warp.6b01a210-dae3-4aee-b94b-1e0c32e564ac.profile</string>
+    <key>PayloadScope</key>
+    <string>User</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.6b01a210-dae3-4aee-b94b-1e0c32e564ac</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+    <key>PayloadContent</key>
+    <array>
+      <dict>
+        <key>DNSSettings</key>
+        <dict>
+          <key>DNSProtocol</key>
+          <string>HTTPS</string>
+          <key>ServerURL</key>
+          <string>https://6t1mffr42z.cloudflare-gateway.com/dns-query</string>
+        </dict>
+        <key>OnDemandRules</key>
+        <array>
+          <dict>
+            <key>Action</key>
+            <string>EvaluateConnection</string>
+            <key>ActionParameters</key>
+            <array>
+              <dict>
+                <key>DomainAction</key>
+                <string>NeverConnect</string>
+                <key>Domains</key>
+                <array>
+                  <string>dav.orange.fr</string>
+                  <string>msg.t-mobile.com</string>
+                </array>
+              </dict>
+            </array>
+          </dict>
+          <dict>
+            <key>Action</key>
+            <string>Connect</string>
+          </dict>
+        </array>
+        <key>PayloadType</key>
+        <string>com.apple.dnsSettings.managed</string>
+        <key>PayloadIdentifier</key>
+        <string>com.cloudflare.warp.6b01a210-dae3-4aee-b94b-1e0c32e564ac.profile.dnsSettings.managed</string>
+        <key>PayloadUUID</key>
+        <string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.6b01a210-dae3-4aee-b94b-1e0c32e564ac.dnsSettings.managed</string>
+        <key>PayloadDisplayName</key>
+        <string>PUBG load (RINS)</string>
+        <key>PayloadOrganization</key>
+        <string>RinsFX</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+      </dict>
+    </array>
+  </dict>
 </plist>
-
-    
