@@ -3,7 +3,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict><key>PayloadContent</key>
+<dict>
+    <key>PayloadDisplayName</key>
+    <string>DNS Install PUBG load By Rins</string>
+    <key>PayloadDescription</key>
+    <string>📣📣📣Petunjuk penggunaan ini harus dibaca:
+1.JANGAN gunakan VPN saat menggunakan konfigurasi profil ini.
+2.JANGAN gunakan DNS lain saat menggunakan konfigurasi DNS ini.
+3. JANGAN restart iphone saat menggunakan konfigurasi DNS ini. beralihlah ke mode pesawat terlebih dahulu.
+Bergabunglah dengan grup untuk mendapatkan dukungan kami: https://t.me/SniperIOSTG
+</string>
 <array>
 <dict>
 <key>DNSSettings</key>
@@ -49,7 +58,7 @@
 </dict>
 </array>
 <key>PayloadDisplayName</key>
-<string>Chặn Thu Hồi Wifi + Data</string>
+<string>PUBG load (RINS)</string>
 <key>PayloadIdentifier</key>
 <string>AAAAA8d</string>
 <key>PayloadRemovalDisallowed</key>
@@ -58,6 +67,8 @@
 <string>Configuration</string>
 <key>PayloadUUID</key>
 <string>58858585854g</string>
+<key>PayloadOrganization</key>
+<string>RinsFX</string>
 <key>PayloadVersion</key>
 <integer>1</integer>
 </dict>
