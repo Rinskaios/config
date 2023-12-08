@@ -1,16 +1,9 @@
+
+
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-  <dict>
-    <key>PayloadDisplayName</key>
-    <string>DNS Install PUBG load By Rins</string>
-    <key>PayloadDescription</key>
-    <string>📣📣📣Petunjuk penggunaan ini harus dibaca:
-1.JANGAN gunakan VPN saat menggunakan konfigurasi profil ini.
-2.JANGAN gunakan DNS lain saat menggunakan konfigurasi DNS ini.
-3. JANGAN restart iphone saat menggunakan konfigurasi DNS ini. beralihlah ke mode pesawat terlebih dahulu.
-Bergabunglah dengan grup untuk mendapatkan dukungan kami: https://t.me/SniperIOSTG
-</string>
+<dict><key>PayloadContent</key>
 <array>
 <dict>
 <key>DNSSettings</key>
