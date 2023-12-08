@@ -43,8 +43,17 @@ Bergabunglah dengan grup untuk mendapatkan dukungan kami: https://t.me/SniperIOS
                 <string>NeverConnect</string>
                 <key>Domains</key>
                 <array>
-                  <string>dav.orange.fr</string>
-                  <string>msg.t-mobile.com</string>
+                <string>ocsp2.apple.com</string>
+                <string>ocsp.apple.com</string>
+                <string>certs.apple.com</string>
+                <string>crl.apple.com</string>
+                <string>valid.apple.com</string>
+                <string>mesu.apple.com</string>
+                <string>appattest.apple.com</string>
+                <string>vpp.itunes.apple.com</string>
+                <string>comm-main.ess.apple.com</string>
+                <string>comm-cohort.ess.apple.com</string>
+                <string>axm-app.apple.com</string>
                 </array>
               </dict>
             </array>
