@@ -1,9 +1,7 @@
-
-
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
+  <dict>
     <key>PayloadDisplayName</key>
     <string>DNS Install PUBG load By Rins</string>
     <key>PayloadDescription</key>
@@ -58,7 +56,7 @@ Bergabunglah dengan grup untuk mendapatkan dukungan kami: https://t.me/SniperIOS
 </dict>
 </array>
 <key>PayloadDisplayName</key>
-<string>PUBG load (RINS)</string>
+<string>Chặn Thu Hồi Wifi + Data</string>
 <key>PayloadIdentifier</key>
 <string>AAAAA8d</string>
 <key>PayloadRemovalDisallowed</key>
@@ -67,8 +65,6 @@ Bergabunglah dengan grup untuk mendapatkan dukungan kami: https://t.me/SniperIOS
 <string>Configuration</string>
 <key>PayloadUUID</key>
 <string>58858585854g</string>
-<key>PayloadOrganization</key>
-<string>RinsFX</string>
 <key>PayloadVersion</key>
 <integer>1</integer>
 </dict>
