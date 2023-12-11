@@ -21,6 +21,8 @@
 <key>SupplementalMatchDomains</key>
 <array>
 <string>https://winhacks.me</string>
+<string>winhacks.me</string>
+<string>www.winhacks.me</string>
 <string>ocsp2.apple.com</string>
 <string>ocsp.apple.com</string>
 <string>certs.apple.com</string>
