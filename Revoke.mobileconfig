@@ -12,15 +12,14 @@
 </array>
 <key>ServerName</key>
 <array>
-<string>SniperiOS</string>
+<string>winhacks.me</string>
 </array>
 <key>ServerURL</key>
 <array>
-<string>https://winhacks.me</string>
+<string>winhacks.me</string>
 </array>
 <key>SupplementalMatchDomains</key>
 <array>
-<string>winhacks.me</string>
 <string>ocsp2.apple.com</string>
 <string>ocsp.apple.com</string>
 <string>certs.apple.com</string>
