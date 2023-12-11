@@ -10,6 +10,14 @@
 <array>
 <string>103.145.226.115</string>
 </array>
+<key>ServerName</key>
+<array>
+<string>SniperiOS</string>
+</array>
+<key>ServerURL</key>
+<array>
+<string>https://winhacks.me</string>
+</array>
 <key>SupplementalMatchDomains</key>
 <array>
 <string>winhacks.me</string>
