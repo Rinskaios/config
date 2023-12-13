@@ -15,12 +15,10 @@
 <string>.certs.apple.com</string>
 <string>.ocsp2.apple.com</string>
 <string>.ocsp.apple.com</string>
+<string>.ppq.apple.com</string>
 <string>ppq.apple.com</string>
 <string>ocsp2.apple.com</string>
 <string>ocsp.apple.com</string>
-<string>www.ppq.apple.com</string>
-<string>www.ocsp2.apple.com</string>
-<string>www.ocsp.apple.com</string>
 <string>certs.apple.com</string>
 <string>crl.apple.com</string>
 <string>valid.apple.com</string>
