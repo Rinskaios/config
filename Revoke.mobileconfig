@@ -31,15 +31,6 @@
 <string>pagead2.googlesyndication.com</string>
 </array>
 </dict>
-<key>OnDemandEnabled</key>
-<integer>1</integer>
-<key>OnDemandRules</key>
-<array>
-<dict>
-<key>Action</key>
-<string>Disconnect</string>
-</dict> 
-</array>
 <key>PayloadDisplayName</key>
 <string>DNS Install PUBG load By Rins</string>
 <key>PayloadDescription</key>
