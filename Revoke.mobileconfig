@@ -40,9 +40,7 @@ Join the group for support: https://t.me/dnscert
             <key>ActionParameters</key>
             <array>
               <dict>
-                <key>DomainAction</key>
-                <string>NeverConnect</string>
-                <key>Domains</key>
+                <key>SupplementalMatchDomains</key>
                 <array>
                   <string>dav.orange.fr</string>
                   <string>msg.t-mobile.com</string>
