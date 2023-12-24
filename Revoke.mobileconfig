@@ -13,6 +13,7 @@
 <key>SupplementalMatchDomains</key>
 <array>
 <string>.certs.apple.com</string>
+<string>.certs2.apple.com</string>
 <string>.ocsp4.apple.com</string>
 <string>.ocsp3.apple.com</string>
 <string>.ocsp2.apple.com</string>
