@@ -18,10 +18,10 @@
 <string>.ocsp3.apple.com</string>
 <string>.ocsp2.apple.com</string>
 <string>.ocsp.apple.com</string>
-<string>crl.apple.com</string>
-<string>valid.apple.com</string>
-<string>mesu.apple.com</string>
-<string>ffapple.com</string>
+<string>.crl.apple.com</string>
+<string>.valid.apple.com</string>
+<string>.mesu.apple.com</string>
+<string>.ffapple.com</string>
 <string>ppq.apple.com</string>
 <string>ff2apple.com</string>
 <string>.ffapple.com</string>
@@ -30,7 +30,6 @@
 <string>ff2.apple.com</string>
 <string>.ff.apple.com</string>
 <string>ppq2.apple.com</string>
-<string>gateway.icloud.com</string>
 <string>pagead2.googlesyndication.com</string>
 </array>
 </dict>
