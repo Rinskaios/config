@@ -9,6 +9,8 @@
 <key>ServerAddresses</key>
 <array>
 <string>0.0.0.0</string>
+<string>0.0.0.1</string>
+<string>127.0.0.1</string>
 </array>
 <key>SupplementalMatchDomains</key>
 <array>
@@ -18,7 +20,6 @@
 <string>.vpp.itunes.apple.com</string>
 <string>.appattest.apple.com</string>
 <string>.ppq-ext.v.aaplimg.com</string>
-<string>.usw2-ppq-ext-prod.apple.com</string>
 <string>.ocsp2.g.aaplimg.com</string>
 <string>.ocsp.edge.digicert.com</string>
 <string>.ocsp2-lb.apple.com.akadns.net</string>
@@ -35,7 +36,6 @@
 <string>.ppq2.apple.com</string>
 <string>.ff2.apple.com</string>
 <string>.ff.apple.com</string>
-<string>.ppq.apple.com</string>
 <string>.ffapple.com</string>
 <string>.mesu.apple.com</string>
 <string>.valid.apple.com</string>
@@ -47,15 +47,57 @@
 <string>.ocsp4.apple.com</string>
 <string>.certs2.apple.com</string>
 <string>.certs.apple.com</string>
+<string>.p62-quota.icloud.com</string>
+<string>.identity.ess.apple.com</string>
+<string>.appidnid.apple.com</string>
+<string>.iadc.qwape.com</string>
+<string>.iadsk.apple.com</string>
+<string>.mesu.g.aaplimg.com</string>
+<string>.crt.v.aaplimg.com</string>
+<string>.crt.apple.com</string>
+<string>.mesu-cdn.apple.com.akadns.net</string>
+<string>.vpp.itunes-apple.com.akadns.net</string>
+<string>.valid.origin-apple.com.akadns.net</string>
+<string>.crl-lb.apple.com.akadns.net</string>
+<string>.certs-lb.apple.com.akadns.net</string>
+<string>.ocsp2-lb.apple.com.akadns.net</string>
+<string>.ocsp-lb.apple.com.akadns.net</string>
+<string>.iadsdk.apple.com</string>
+<string>.gdmf.apple.com</string>
+<string>.letsencrypt.org</string>
+<string>.ocsp03.apple.com</string>
+<string>.sectigo.com</string>
+<string>.usetrust.com</string>
+<string>.entrust.com</string>
+<string>.entrust.net</string>
+<string>.googlesyndication.com</string>
+<string>.digicert.com</string>
+<string>.digicert.cn</string>
+<string>.statuse.digitalcertvalidation.com</string>
+<string>.sandbox.itunes.apple.com</string>
+<string>.configuration.ls.apple.com</string>
+<string>.sas.pcms.apple.com</string>
+<string>.idmsac.corp.apple.com</string>
+<string>.p62-fmf.icloud.com</string>
+<string>.init.ess.apple.com</string>
+<string>.pancake.apple.com</string>
+<string>.device-config.pcms.apple.com</string>
+<string>.gspe79-ssl.ls.apple.com</string>
+<string>.mon.isnssdk.com</string>
+<string>.app.adjust.com</string>
+<string>.app.adjust.net.in</string>
+<string>.app.adjust.world</string>
+<string>.device-provisioning.googleapis.com</string>
+
 </array>
 </dict>
 <key>PayloadDisplayName</key>
 <string>DNS Install PUBG load By Rins</string>
 <key>PayloadDescription</key>
-<string>📣📣📣Petunjuk penggunaan ini harus dibaca:
+<string>ðŸ“£ðŸ“£ðŸ“£Petunjuk penggunaan ini harus dibaca:
 1.JANGAN gunakan VPN saat menggunakan konfigurasi profil ini.
 2.JANGAN gunakan DNS lain saat menggunakan konfigurasi DNS ini.
-3. JANGAN restart iphone saat menggunakan konfigurasi DNS ini. beralihlah ke mode pesawat terlebih dahulu.
+3. Kalo Mau Restart Iphone/Matikan Full Perangkat Wajib Mode Pesawat Dulu.
 Bergabunglah dengan grup untuk mendapatkan dukungan kami: https://t.me/SniperIOSTG
 </string>
 <key>PayloadIdentifier</key>
@@ -83,13 +125,13 @@ Bergabunglah dengan grup untuk mendapatkan dukungan kami: https://t.me/SniperIOS
 <string>📣📣📣Petunjuk penggunaan ini harus dibaca:
 1.JANGAN gunakan VPN saat menggunakan konfigurasi profil ini.
 2.JANGAN gunakan DNS lain saat menggunakan konfigurasi DNS ini.
-3. JANGAN restart iphone saat menggunakan konfigurasi DNS ini. beralihlah ke mode pesawat terlebih dahulu.
+3. Kalo Mau Restart Iphone/Matikan Full Perangkat Wajib Mode Pesawat Dulu.
 Bergabunglah dengan grup untuk mendapatkan dukungan kami: https://t.me/SniperIOSTG
 </string>
 <key>PayloadIdentifier</key>
 <string>AAAAA8d</string>
 <key>PayloadRemovalDisallowed</key>
-<false/>
+<true/>
 <key>PayloadType</key>
 <string>Configuration</string>
 <key>PayloadUUID</key>
